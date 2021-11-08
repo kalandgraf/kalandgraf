@@ -9,7 +9,7 @@
   <img align="center" alt="Ka-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ka-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="right" alt="Ka-pic" height="150" src="https://avatars.githubusercontent.com/u/53181891?v=4">
+  <img align="right" alt="Ka-pic" height="150" style="border-radius: 50px" src="https://avatars.githubusercontent.com/u/53181891?v=4">
 </div>
   
   ##
