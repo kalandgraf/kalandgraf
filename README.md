@@ -1,8 +1,8 @@
 ## Olá meu nome é Katiuce Landgraf, desenvolvedora e fundadora da Suporte Informatika!
 <div align="center">
   <a href="https://github.com/kalandgraf">
-<img height="170em" style="border: none !important;" src="https://github-readme-stats.vercel.app/api?username=kalandgraf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalandgraf&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="160em" style="border: none !important;" src="https://github-readme-stats.vercel.app/api?username=kalandgraf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalandgraf&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ka-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
